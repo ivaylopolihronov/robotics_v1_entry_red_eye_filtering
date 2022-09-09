@@ -35,3 +35,5 @@ EYE_PATTERN_4: EyePattern = (
   "|/ \\|",
   "\\---/"
 )
+
+eye_patterns = [EYE_PATTERN_1, EYE_PATTERN_2, EYE_PATTERN_3, EYE_PATTERN_4]
